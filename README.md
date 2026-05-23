@@ -16,7 +16,7 @@
 const fernando = {
   nombre:      "Oscar Fernando Salazar Toro",
   rol:         "Aprendiz Frontend Developer",
-  ubicación:   "Cali, Colombia 🇨🇴",
+  ubicación:   "Cali, Colombia",
   formación:   ["SENA – CTMAE (Tecnólogo ADSO)", "BIT – Bootcamp Full Stack (400h)"],
   idiomas:     { español: "Nativo", inglés: "A2" },
   enfoque:     "Transformar requerimientos técnicos en productos visuales y eficientes",
