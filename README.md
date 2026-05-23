@@ -44,7 +44,7 @@ const fernando = {
 
 **— Herramientas & Productividad —**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=trello,vscode,canva,googledrive&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=trello,canva,googledrive&theme=dark" />
 
 </div>
 
@@ -54,6 +54,7 @@ const fernando = {
 
 <div align="center">
 
+![HTML Semantico](https://img.shields.io/badge/HTML%20Semántico-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Maquetación%20Responsive-1572B6?style=flat-square)
 ![ARIA](https://img.shields.io/badge/Accesibilidad%20Web%20ARIA-2E8B57?style=flat-square)
 ![Flexbox](https://img.shields.io/badge/Flexbox-E34F26?style=flat-square)
