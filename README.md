@@ -40,7 +40,7 @@ const fernando = {
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/fezar9727)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Canva](https://skillicons.dev/icons?i=figma)](https://www.canva.com/)
+[![Canva](https://skillicons.dev/icons?i=canva)](https://www.canva.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 </div>
@@ -49,30 +49,26 @@ const fernando = {
 
 ## 💼 Experiencia de Aprendizaje
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/City%20Soul%20Echoes-BIT-4A90D9?style=for-the-badge&logo=code&logoColor=white"/>
-    </td>
-    <td><strong>Aprendiz Frontend</strong> · abr 2026 – may 2026</td>
-  </tr>
-</table>
+**City Soul Echoes · BIT** — Aprendiz Frontend · `abr 2026 – may 2026`
 
-> 🎯 **Plataforma digital de arte y cultura** — Construí la interfaz completa del sitio.
->
-> ✅ HTML semántico con **+90% de cobertura de accesibilidad** (atributos ARIA)  
-> ✅ Diseño **100% responsive** con Bootstrap, Flexbox y CSS Grid  
-> ✅ Alta fidelidad visual en paletas de color y tipografías  
+Participé en el desarrollo de una plataforma digital de arte y cultura, construyendo la interfaz completa del sitio.
+
+- ✅ HTML semántico con **+90% de cobertura de accesibilidad** mediante atributos ARIA
+- ✅ Diseño **100% responsive** con Bootstrap, Flexbox y CSS Grid
+- ✅ Alta fidelidad visual en manejo de paletas de color y tipografías
 
 ---
 
 ## 🎓 Educación
 
-| 🏫 Institución | 📚 Programa | 📅 Período |
-|---|---|---|
-| **SENA – CTMAE** | Tecnólogo en Análisis y Desarrollo de Software | jun 2025 – En curso |
-| **Build Innovate Transform (BIT)** | Bootcamp Desarrollo Web Full Stack (400h) | mar 2026 – En curso |
-| **SENA** | Certificación Aprendiz Digital (40h) | nov 2025 |
+**Tecnólogo en Análisis y Desarrollo de Software** · `jun 2025 – En curso`
+🏫 SENA – Centro Tecnológico Minero Agroempresarial (CTMAE)
+
+**Bootcamp Desarrollo Web Full Stack · 400 horas** · `mar 2026 – En curso`
+🏫 Build Innovate Transform (BIT)
+
+**Certificación Aprendiz Digital · 40 horas** · `nov 2025`
+🏫 SENA
 
 ---
 
@@ -135,26 +131,10 @@ const fernando = {
 
 ---
 
-## 💡 Frase que me mueve
-
 <div align="center">
 
-> *"Transformar requerimientos técnicos en productos visualmente atractivos y eficientes,*  
-> *aplicando pensamiento analítico enfocado en la resolución de problemas y el detalle."*  
-> — **Oscar Fernando Salazar Toro**
-
-</div>
-
----
-
-<div align="center">
-
-<!-- VISITOR COUNTER -->
 ![Visitas](https://komarev.com/ghpvc/?username=fezar9727&label=Visitas+al+perfil&color=58A6FF&style=flat-square)
-&nbsp;&nbsp;
-⭐ Si algo te sirve, **¡dale una estrella!** ⭐
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
