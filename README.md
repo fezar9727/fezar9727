@@ -90,13 +90,13 @@ Participé en el desarrollo de una plataforma digital de arte y cultura, constru
 ## 🎓 Educación
 
 **Tecnólogo en Análisis y Desarrollo de Software** · `jun 2025 – En curso`
-🏫 SENA – Centro Tecnológico Minero Agroempresarial (CTMAE)
+SENA – Centro Tecnológico Minero Agroempresarial (CTMAE)
 
 **Bootcamp Desarrollo Web Full Stack · 400 horas** · `mar 2026 – En curso`
-🏫 Build Innovate Transform (BIT)
+Build Innovate Transform (BIT)
 
 **Certificación Aprendiz Digital · 40 horas** · `nov 2025`
-🏫 SENA
+SENA
 
 ---
 
