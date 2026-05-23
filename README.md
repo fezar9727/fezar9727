@@ -44,7 +44,9 @@ const fernando = {
 
 **— Herramientas & Productividad —**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" width="48" height="48" alt="Canva"/>&nbsp;<img src="https://raw.githubusercontent.com/fezar9727/fezar9727/main/icons/trello.svg" width="48" height="48" alt="Trello"/>&nbsp;<img src="https://raw.githubusercontent.com/fezar9727/fezar9727/main/icons/googleworkspace.svg" width="48" height="48" alt="Google Workspace"/>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 </div>
 
@@ -54,13 +56,20 @@ const fernando = {
 
 <div align="center">
 
-![HTML Semantico](https://img.shields.io/badge/HTML%20Semántico-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Responsive](https://img.shields.io/badge/Maquetación%20Responsive-1572B6?style=flat-square)
-![ARIA](https://img.shields.io/badge/Accesibilidad%20Web%20ARIA-2E8B57?style=flat-square)
-![Flexbox](https://img.shields.io/badge/Flexbox-E34F26?style=flat-square)
-![Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=flat-square)
-![UML](https://img.shields.io/badge/UML-6A0DAD?style=flat-square)
-![3FN](https://img.shields.io/badge/Normalización%203FN-4479A1?style=flat-square)
+<table>
+  <tr>
+    <td align="center">📄<br/><sub>HTML Semántico</sub></td>
+    <td align="center">📱<br/><sub>Maquetación Responsive</sub></td>
+    <td align="center">♿<br/><sub>Accesibilidad Web ARIA</sub></td>
+    <td align="center">🧩<br/><sub>Flexbox</sub></td>
+  </tr>
+  <tr>
+    <td align="center">⬛<br/><sub>CSS Grid</sub></td>
+    <td align="center">📐<br/><sub>UML</sub></td>
+    <td align="center">🗄️<br/><sub>Normalización 3FN</sub></td>
+    <td align="center">🔍<br/><sub>Control de Versiones</sub></td>
+  </tr>
+</table>
 
 </div>
 
