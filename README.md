@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fernando%20Salazar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20Apprentice%20%7C%20Cali%2C%20Colombia%20🇨🇴&descAlignY=55&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Aprendiz+Frontend+%7C+HTML5+%2B+CSS3+%2B+JS;Construyo+interfaces+funcionales+y+bonitas+%F0%9F%9A%80;Estudiante+SENA+%2B+BIT+Bootcamp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Aprendiz+Frontend+%7C+HTML5+%2B+CSS3+%2B+JS+%F0%9F%9A%80;Construyo+interfaces+funcionales+y+bonitas+%F0%9F%92%BB;Estudiante+SENA+%2B+BIT+Bootcamp+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
