@@ -36,16 +36,15 @@ const fernando = {
 
 <br/><br/>
 
-**— Bases de datos & Control de versiones —**
+**— Bases de datos, Versiones & Editor —**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
 **— Herramientas & Productividad —**
 
-<img src="https://skillicons.dev/icons?i=trello,vscode&theme=dark" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=canva,googleworkspace&theme=dark" />
+<img src="https://skillicons.dev/icons?i=trello&theme=dark" /><img src="https://go-skill-icons.vercel.app/api/icons?i=canva,googleworkspace&theme=dark" />
 
 </div>
 
