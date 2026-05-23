@@ -44,7 +44,8 @@ const fernando = {
 
 **— Herramientas & Productividad —**
 
-<img src="https://skillicons.dev/icons?i=trello,vscode&theme=dark" /><img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />&nbsp;<img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google Workspace" />
+<img src="https://skillicons.dev/icons?i=trello,vscode&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=canva,googleworkspace&theme=dark" />
 
 </div>
 
