@@ -22,7 +22,7 @@ const fernando = {
   enfoque:    "Transformar requerimientos técnicos en productos visuales y eficientes",
   disponible: true
 };
-```
+` ` `
 
 ---
 
@@ -44,7 +44,7 @@ const fernando = {
 
 **— Herramientas & Productividad —**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" width="48" height="48" alt="Canva"/>&nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzFGMjkzNyIvPgogIDxyZWN0IHg9IjgiIHk9IjEwIiB3aWR0aD0iMTMiIGhlaWdodD0iMjIiIHJ4PSIzIiBmaWxsPSIjMDA1MkNDIi8+CiAgPHJlY3QgeD0iMjciIHk9IjEwIiB3aWR0aD0iMTMiIGhlaWdodD0iMTUiIHJ4PSIzIiBmaWxsPSIjMDA1MkNDIi8+Cjwvc3ZnPg==" width="48" height="48" alt="Trello"/>&nbsp;<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij4KICA8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzFGMjkzNyIvPgogIDxwYXRoIGQ9Ik0yNCAxMWMtNy4xOCAwLTEzIDUuODItMTMgMTNzNS44MiAxMyAxMyAxM2M2LjQ0IDAgMTEuOC00LjY3IDEyLjg0LTEwLjgxSDI0di00LjM4aDE3LjVjLjE3Ljk2LjI2IDEuOTYuMjYgMi45OSAwIDkuOTQtNy40NiAxNy0xNy43NiAxN0MxMy4zNCA0MS44IDYgMzQuNDYgNiAyNFMxMy4zNCA2LjIgMjQgNi4yYzUuMzggMCA5Ljg4IDEuOTggMTMuMzQgNS4yMmwtMy4xIDMuMUMzMS44NCAxMi4zIDI4LjIyIDExIDI0IDExeiIgZmlsbD0iIzQyODVGNCIvPgogIDxwYXRoIGQ9Ik0xMS41IDI0YzAtMS4yOC4yMi0yLjUuNjEtMy42NGwtNC44NS0zLjc1QzYuMDkgMTguNTYgNS41IDIxLjIgNS41IDI0cy41OSA1LjQ0IDEuNzYgNy4zOWw0Ljg1LTMuNzVBMTIuNDMgMTIuNDMgMCAwIDEgMTEuNSAyNHoiIGZpbGw9IiMzNEE4NTMiLz4KICA8cGF0aCBkPSJNMjQgMzYuNWMtMy4xMyAwLTUuOTYtMS4xNy04LjEyLTMuMDhsLTQuODUgMy43NUMxNC4xOCA0MC4xOCAxOC44MiA0MiAyNCA0MmM1LjM4IDAgOS44OC0xLjk4IDEzLjM0LTUuMjJsLTQuMTktMy4yNEExMi40MiAxMi40MiAwIDAgMSAyNCAzNi41eiIgZmlsbD0iI0ZCQkMwNSIvPgogIDxwYXRoIGQ9Ik0zNi44NCAxNC4yMmwtNC4xOSAzLjI0QTEyLjQgMTIuNCAwIDAgMSAzNi41IDI0YzAgMS4yOC0uMjIgMi41LS42MSAzLjY0bDQuODUgMy43NUM0MS45MSAyOS40NCA0Mi41IDI2LjggNDIuNSAyNGMwLTMuNjctMS4xMi03LjA5LTMuMDQtOS45bC0yLjYyLjEyeiIgZmlsbD0iI0VBNDMzNSIvPgo8L3N2Zz4=" width="48" height="48" alt="Google Workspace"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" width="48" height="48" alt="Canva"/>&nbsp;<img src="https://raw.githubusercontent.com/fezar9727/fezar9727/main/icons/trello.svg" width="48" height="48" alt="Trello"/>&nbsp;<img src="https://raw.githubusercontent.com/fezar9727/fezar9727/main/icons/googleworkspace.svg" width="48" height="48" alt="Google Workspace"/>
 
 </div>
 
@@ -135,3 +135,8 @@ Participé en el desarrollo de una plataforma digital de arte y cultura, constru
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
+```
+
+---
+
+**PASO 3** — Los SVGs deben estar subidos **antes** de hacer commit del README, si no Trello y Google Workspace no cargan.
