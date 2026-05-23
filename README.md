@@ -120,7 +120,7 @@ SENA
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Salazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-salazar-aprendiz-frontend/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Salazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-salazar-aprendiz-frontend)
 [![Gmail](https://img.shields.io/badge/Gmail-fer48120@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fer48120@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B57%20315%20516%202691-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573155162691)
 [![GitHub](https://img.shields.io/badge/GitHub-fezar9727-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fezar9727)
