@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fernando%20Salazar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20Apprentice%20%7C%20Cali%2C%20Colombia&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fernando%20Salazar&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20Apprentice%20%7C%20Cali%2C%20Colombia&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Creo+interfaces+accesibles+%C2%B7+C%C3%B3digo+limpio+%C2%B7+Atenci%C3%B3n+al+detalle;Aprendiz+Frontend+%7C+HTML5+%2B+CSS3+%2B+JavaScript;Estudiante+SENA+%2B+BIT+Bootcamp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Creo+interfaces+accesibles+%C2%B7+C%C3%B3digo+limpio+%C2%B7+Atenci%C3%B3n+al+detalle;Aprendiz+Frontend+%7C+HTML5+%2B+CSS3+%2B+JavaScript;Estudiante+SENA+%2B+BIT+Full+Stack+Bootcamp)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,33 +30,38 @@ const fernando = {
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
 **Bases de datos & Control de versiones**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/fezar9727)
 
 **Herramientas & Productividad**
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+[![Trello](https://skillicons.dev/icons?i=trello)](https://trello.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🔧 Habilidades Técnicas
+## 🔧 Habilidades
 
 <div align="center">
 
-🔹 Maquetación Responsive &nbsp;|&nbsp; 🔹 Accesibilidad Web (ARIA) &nbsp;|&nbsp; 🔹 UML &nbsp;|&nbsp; 🔹 Normalización 3FN
+![Responsive](https://img.shields.io/badge/Maquetación%20Responsive-1572B6?style=flat-square&logoColor=white)
+![ARIA](https://img.shields.io/badge/Accesibilidad%20Web%20ARIA-2E8B57?style=flat-square&logoColor=white)
+![UML](https://img.shields.io/badge/UML-6A0DAD?style=flat-square&logoColor=white)
+![3FN](https://img.shields.io/badge/Normalización%203FN-4479A1?style=flat-square&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Grid](https://img.shields.io/badge/CSS%20Grid-E34F26?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
