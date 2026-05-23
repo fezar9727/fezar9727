@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fernando%20Salazar&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20Apprentice%20%7C%20Cali%2C%20Colombia&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Creo+interfaces+accesibles+%C2%B7+C%C3%B3digo+limpio+%C2%B7+Atenci%C3%B3n+al+detalle;Aprendiz+Frontend+%7C+HTML5+%2B+CSS3+%2B+JavaScript;Estudiante+SENA+%2B+BIT+Full+Stack+Bootcamp)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Creo+interfaces+accesibles+%7C+Codigo+limpio+%7C+Atencion+al+detalle;Aprendiz+Frontend+%7C+HTML5+%2B+CSS3+%2B+JavaScript;Estudiante+SENA+%2B+BIT+Full+Stack+Bootcamp)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,24 +30,25 @@ const fernando = {
 
 <div align="center">
 
-**Frontend**
+**— Frontend —**
 
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 
-**Bases de datos & Control de versiones**
+<br/><br/>
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/fezar9727)
+**— Bases de datos & Control de versiones —**
 
-**Herramientas & Productividad**
+<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
 
-[![Trello](https://skillicons.dev/icons?i=trello)](https://trello.com/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+<br/><br/>
+
+**— Herramientas & Productividad —**
+
+<img src="https://skillicons.dev/icons?i=trello,vscode&theme=dark" />
+
+&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+&nbsp;
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
@@ -56,12 +59,12 @@ const fernando = {
 
 <div align="center">
 
-![Responsive](https://img.shields.io/badge/Maquetación%20Responsive-1572B6?style=flat-square&logoColor=white)
-![ARIA](https://img.shields.io/badge/Accesibilidad%20Web%20ARIA-2E8B57?style=flat-square&logoColor=white)
-![UML](https://img.shields.io/badge/UML-6A0DAD?style=flat-square&logoColor=white)
-![3FN](https://img.shields.io/badge/Normalización%203FN-4479A1?style=flat-square&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Grid](https://img.shields.io/badge/CSS%20Grid-E34F26?style=flat-square&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Maquetación%20Responsive-1572B6?style=flat-square)
+![ARIA](https://img.shields.io/badge/Accesibilidad%20Web%20ARIA-2E8B57?style=flat-square)
+![Flexbox](https://img.shields.io/badge/Flexbox-E34F26?style=flat-square)
+![Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=flat-square)
+![UML](https://img.shields.io/badge/UML-6A0DAD?style=flat-square)
+![3FN](https://img.shields.io/badge/Normalización%203FN-4479A1?style=flat-square)
 
 </div>
 
@@ -96,11 +99,14 @@ Participé en el desarrollo de una plataforma digital de arte y cultura, constru
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fezar9727&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fezar9727&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fezar9727&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=fezar9727&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak"/>
 </div>
 
 ---
